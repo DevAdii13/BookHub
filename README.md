@@ -15,8 +15,7 @@ BookHub is a web application built with React, designed for book lovers to explo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bookhub.git
-```
+git clone https://github.com/DevAdii13/BookHub
 2. Navigate to the project directory:
 ```bash
 cd bookhub
